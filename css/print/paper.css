@@ -151,6 +151,9 @@ ul, ol, div, p {
 	    -ms-transform: none !important;
 	        transform: none !important;
 }
+img {
+border:0 px !important;
+}
 .reveal section {
 	page-break-after: always !important;
 	display: block !important;
